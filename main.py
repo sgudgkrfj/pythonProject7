@@ -24,3 +24,11 @@ def delay_decorator(func):
 def sleepy():
     print("я спу")
 sleepy()
+
+
+
+
+
+
+
+
